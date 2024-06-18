@@ -1,0 +1,2 @@
+gopigo3/gopigo3_bringup/gopigo3_bringup
+/home/pi/catkin_ws/devel/.private/gopigo3_bringup/cmake.lock /home/pi/catkin_ws/devel/./cmake.lock

@@ -1,0 +1,5 @@
+gopigo3/gopigo3_description
+/home/pi/catkin_ws/devel/.private/gopigo3_description/cmake.lock /home/pi/catkin_ws/devel/./cmake.lock
+/home/pi/catkin_ws/devel/.private/gopigo3_description/lib/pkgconfig/gopigo3_description.pc /home/pi/catkin_ws/devel/lib/pkgconfig/gopigo3_description.pc
+/home/pi/catkin_ws/devel/.private/gopigo3_description/share/gopigo3_description/cmake/gopigo3_descriptionConfig.cmake /home/pi/catkin_ws/devel/share/gopigo3_description/cmake/gopigo3_descriptionConfig.cmake
+/home/pi/catkin_ws/devel/.private/gopigo3_description/share/gopigo3_description/cmake/gopigo3_descriptionConfig-version.cmake /home/pi/catkin_ws/devel/share/gopigo3_description/cmake/gopigo3_descriptionConfig-version.cmake

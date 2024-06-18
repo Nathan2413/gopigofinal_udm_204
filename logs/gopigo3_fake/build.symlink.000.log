@@ -1,0 +1,4 @@
+Symlinking /home/pi/catkin_ws/devel/lib/pkgconfig/gopigo3_fake.pc
+Symlinking /home/pi/catkin_ws/devel/lib/gopigo3_fake/gopigo3_fake_node
+Symlinking /home/pi/catkin_ws/devel/share/gopigo3_fake/cmake/gopigo3_fakeConfig-version.cmake
+Symlinking /home/pi/catkin_ws/devel/share/gopigo3_fake/cmake/gopigo3_fakeConfig.cmake
