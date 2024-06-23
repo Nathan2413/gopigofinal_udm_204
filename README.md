@@ -1,34 +1,45 @@
+Voici un exemple de README pour votre projet GitHub :
+
+---
+
 # Gopigofinal_udm_204
 
 Le but de ce projet est de faire rouler le robot GoPiGo du point A au point B en évitant les obstacles.
 
-## Téléchargement et Installation
+## Installation
 
-Pour télécharger le projet Gopigofinal_udm_204, veuillez suivre les étapes ci-dessous :
+Pour télécharger le projet **Gopigofinal_udm_204**, veuillez utiliser la commande suivante :
 
-1. Clonez le dépôt en utilisant la commande suivante :
-    ```sh
-    git clone https://github.com/Nathan2413/gopigofinal_udm_204.git
-    ```
+```bash
+git clone https://github.com/Nathan2413/gopigofinal_udm_204.git
+```
 
-2. Une fois téléchargé, accédez au dossier du projet :
-    ```sh
-    cd gopigofinal_udm_204
-    ```
+Une fois téléchargé, entrez dans le répertoire du projet :
 
-3. Créez un dossier pour le package GoPiGo3 :
-    ```sh
-    mkdir src
-    ```
+```bash
+cd gopigofinal_udm_204
+```
 
-4. Accédez au dossier `src` :
-    ```sh
-    cd src
-    ```
+## Configuration du package GoPiGo3
 
-5. Téléchargez le package GoPiGo3 en utilisant la commande suivante :
-    ```sh
-    git clone https://github.com/Nathan2413/gopigo3_udm_204.git
-    ```
+Pour configurer le package GoPiGo3, suivez les étapes ci-dessous :
 
+1. Créez un répertoire `src` :
 
+```bash
+mkdir src
+```
+
+2. Entrez dans le répertoire `src` :
+
+```bash
+cd src
+```
+
+3. Téléchargez le package GoPiGo3 :
+
+```bash
+git clone https://github.com/Nathan2413/gopigo3_udm_204.git
+```
+
+---
