@@ -1,79 +1,88 @@
 
+
 ---
 
 # Gopigofinal_udm_204
 
-Le but de ce projet est de faire rouler le robot GoPiGo du point A au point B en évitant les obstacles.
+The purpose of this project is to make the GoPiGo robot move from point A to point B while avoiding obstacles. We used 3 ultrasonic sensors to detect obstacles.
 
 ## Installation
 
-Pour télécharger le projet **Gopigofinal_udm_204**, veuillez utiliser la commande suivante :
+To download the **Gopigofinal_udm_204** project, please use the following command:
 
 ```bash
 git clone https://github.com/Nathan2413/gopigofinal_udm_204.git
 ```
 
-Une fois téléchargé, entrez dans le répertoire du projet :
+Once downloaded, go to the project directory:
 
 ```bash
 cd gopigofinal_udm_204
 ```
 
-## Configuration du package GoPiGo3
+## Configuring the GoPiGo3 Package
 
-Pour configurer le package GoPiGo3, suivez les étapes ci-dessous :
+To configure the GoPiGo3 package, follow these steps:
 
-1. Créez un répertoire `src` :
+1. Create a `src` directory:
 
 ```bash
 mkdir src
 ```
 
-2. Entrez dans le répertoire `src` :
+2. Enter the `src` directory:
 
 ```bash
 cd src
 ```
 
-3. Téléchargez le package GoPiGo3 :
+3. Download the GoPiGo3 package:
 
 ```bash
 git clone https://github.com/Nathan2413/gopigo3_udm_204.git
 ```
 
-4. Revenez dans le répertoire du projet :
+4. Return to the project directory:
 
 ```bash
 cd ..
 ```
 
-5. Configurez l'environnement de votre terminal pour qu'il reconnaisse les packages ROS :
+5. Configure your terminal environment to recognize the ROS packages:
 
 ```bash
 source devel/setup.bash
 ```
 
-6. Lancez le fichier de lancement pour initialiser le robot :
+6. Launch the launch file to initialize the robot:
 
 ```bash
 roslaunch bringup_car differential_drives.launch
 ```
 
-## Lancement du robot GoPiGo3
+## Launching the GoPiGo3 Robot
 
-1. Ouvrir un nouveau terminal
-2. Entrer dans le répertoire du projet :
+1. Open a new terminal.
+2. Enter the project directory:
 
 ```bash
 cd gopigofinal_udm_204
 ```
 
-3. Lancer le programme Python :
+3. Launch the Python program:
 
 ```bash
 python3 finalisation.py
 ```
 
-4. Pour que le robot commence son départ, il faut cliquer sur la touche `a`.
+4. To start the robot, press the `a` key.
+
+## Developers
+
+- Nathan RC (🇲🇬)
+- Hani R (🇲🇬)
+- Berenice Z (🇨🇩)
+- Lahizarre P (🇲🇬)
 
 ---
+
